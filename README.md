@@ -1,0 +1,2 @@
+# Machine-Learning
+The skin dataset consist of (B, G, R) values where B represents blue , G represents green and R represents red. Each of the specified values takes on an integer value between 0 and 255 (RGB colour format 8 bit representation). The dataset  was collected by randomly sampling B,G,R values from face images of various age groups (young, middle, and old), race groups(white, black, and asian), and genders obtained from FERET database and PAL database. 
